@@ -2,6 +2,8 @@
 
 A modern and responsive **Ecommerce Dashboard** built to monitor, manage, and analyze online store performance. This dashboard provides insights into sales, products, customers, and orders through interactive UI components and data visualization.
 
+![Dashboard Screenshot](Frontend/assets/dash.png)
+
 ## Project Overview
 
 The Ecommerce Dashboard helps store owners and administrators track business performance in real-time. It features a clean UI, responsive design, and useful analytics components to improve decision-making.
