@@ -3,7 +3,7 @@
 A modern and responsive **Ecommerce Dashboard** built to monitor, manage, and analyze online store performance. This dashboard provides insights into sales, products, customers, and orders through interactive UI components and data visualization.
 
 ### Live Preview
-click the url below to see live preview
+click to see live preview : 
 [View Live Website](https://dashboard-seven-chi-22.vercel.app)
 
 ![Dashboard Screenshot](Frontend/assets/dash.png)
